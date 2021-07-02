@@ -6,7 +6,7 @@ Both these libraries were used to produce files describing the locations and wid
 
 # Installation Procedures
 
-The following procedures are based on a fresh installation of Ubuntu 20.04.2.0
+The following procedures are for a fresh installation of Ubuntu 20.04.2.0
 
 ```
 sudo apt install build-essential 
