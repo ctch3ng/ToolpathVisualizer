@@ -22,3 +22,9 @@ cd build
 cmake ..
 make
 ```
+
+For usage information of the visualizer, type
+
+```
+./visualizer --help
+```
